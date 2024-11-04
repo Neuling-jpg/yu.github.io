@@ -16,6 +16,6 @@ Selected Research Projects
 
 ## Motion Planning & IK for articulated robots (2024-present)
 
-https://github.com/Neuling-jpg/yu.github.io/blob/master/files/fusion_demo_clip.mp4
+https://github.com/user-attachments/assets/d344ef12-e5c3-4b42-9cbc-c0070f805802
 
 An efficient framework for inverse kinematics and motion planning in high-dimensional articulated robots with complex task constraints, leveraging propagative distance optimization to enhance accuracy and scalability
