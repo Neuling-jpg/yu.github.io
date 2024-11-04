@@ -11,6 +11,11 @@ I am an extern in the [Biorobotics Lab](https://biorobotics.org/) at [Carnegie M
 
 My current research focuses on (1) robotic motion planning and kinematics, and (2) robotic system design.
 
-Research Gallery
+Selected Research Projects
 ======
-XXXX
+
+## Motion Planning & IK for articulated robots (2024-present)
+
+https://github.com/Neuling-jpg/yu.github.io/blob/master/files/fusion_demo_clip.mp4
+
+An efficient framework for inverse kinematics and motion planning in high-dimensional articulated robots with complex task constraints, leveraging propagative distance optimization to enhance accuracy and scalability
