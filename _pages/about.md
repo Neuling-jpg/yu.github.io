@@ -16,6 +16,12 @@ Selected Research Projects
 
 ## Motion Planning & IK (2024-present)
 
+An efficient framework for inverse kinematics and motion planning in high-dimensional articulated robots with complex task constraints, leveraging propagative distance optimization to enhance accuracy and scalability
+
 https://github.com/user-attachments/assets/d344ef12-e5c3-4b42-9cbc-c0070f805802
 
-An efficient framework for inverse kinematics and motion planning in high-dimensional articulated robots with complex task constraints, leveraging propagative distance optimization to enhance accuracy and scalability
+## In-Pipe Robot (2022-2023)
+
+An in-pipe truss robot with redundant joints and linkages for pipe shape adaptation and actuation force distribution, providing significant advantages for complex pipeline navigation and heavy payload delivery.
+
+https://github.com/user-attachments/assets/38b54acb-ae8d-423e-9689-befebc9cfde2
