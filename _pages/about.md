@@ -14,7 +14,7 @@ My current research focuses on (1) robotic motion planning and kinematics, and (
 Selected Research Projects
 ======
 
-## Motion Planning & IK for articulated robots (2024-present)
+## Motion Planning & IK (2024-present)
 
 https://github.com/user-attachments/assets/d344ef12-e5c3-4b42-9cbc-c0070f805802
 
