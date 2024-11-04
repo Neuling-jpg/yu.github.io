@@ -21,7 +21,7 @@ repository               : "Neuling-jpg/yu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Yu_Chen_circle.jpg"
+  avatar           : "profile.png"
   name             : "Yu Chen"
   pronouns         : # example: "she/her"  
   bio              : "Extern in CMU Robotics Institute."
