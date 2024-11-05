@@ -12,7 +12,7 @@ I am an extern in the [Biorobotics Lab](https://biorobotics.org/) at [Carnegie M
 Selected Research Projects
 ======
 
-## Propagative Distance Optimization for Motion Planning
+### Propagative Distance Optimization for Motion Planning
 
 (Under Review) IEEE International Conference on Robotics and Automation (ICRA), 2025
 
@@ -20,15 +20,15 @@ Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guan
 
 ![demos](https://github.com/user-attachments/assets/90412f4d-acb0-4fe4-85a1-4c957c3ce980)
 
-## [Propagative Distance Optimization for Constrained Inverse Kinematics](https://arxiv.org/abs/2406.11572)
+### [Propagative Distance Optimization for Constrained Inverse Kinematics](https://arxiv.org/abs/2406.11572)
 
 The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2024
 
 Yu Chen, Yilin Cai, Jinyun Xu, Zhongqiang Ren, Guanya Shi, Howie Choset.
 
-![humanoid_demo](https://github.com/user-attachments/assets/a2aa2c36-06d9-4ccc-88bb-e574c0eef659)
+![humanoid_demo](https://github.com/user-attachments/assets/79fe4b0e-a22c-4418-8e6c-90157e39144a)
 
-## [Graph-Propagation-based Kinematic Algorithm for In-pipe Truss Robots](https://ieeexplore.ieee.org/abstract/document/10494897)
+### [Graph-Propagation-based Kinematic Algorithm for In-pipe Truss Robots](https://ieeexplore.ieee.org/abstract/document/10494897)
 
 IEEE Robotics and Automation Letters
 
@@ -36,7 +36,7 @@ Yu Chen, Jinyun Xu, Yilin Cai, Shuo Yang, Ben Brown, Fujun Ruan, Yizhu Gu, Howie
 
 ![crawling](https://github.com/user-attachments/assets/ba4dc368-7000-4306-8ea1-76d54030abb2)
 
-## [Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture](https://ieeexplore.ieee.org/abstract/document/9636149)
+### [Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture](https://ieeexplore.ieee.org/abstract/document/9636149)
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
