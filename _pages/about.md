@@ -22,20 +22,20 @@ Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guan
 
 ![demos](https://github.com/user-attachments/assets/90412f4d-acb0-4fe4-85a1-4c957c3ce980)
 
-### Propagative Distance Optimization for Constrained Inverse Kinematics
+### [Propagative Distance Optimization for Constrained Inverse Kinematics](https://arxiv.org/abs/2406.11572)
 
-[The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2024](https://arxiv.org/abs/2406.11572)
+The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2024
 
 Yu Chen, Yilin Cai, Jinyun Xu, Zhongqiang Ren, Guanya Shi, Howie Choset.
 
-### Graph-Propagation-based Kinematic Algorithm for In-pipe Truss Robots
+### [Graph-Propagation-based Kinematic Algorithm for In-pipe Truss Robots](https://ieeexplore.ieee.org/abstract/document/10494897)
 
-[IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/abstract/document/10494897)
+IEEE Robotics and Automation Letters
 
 Yu Chen, Jinyun Xu, Yilin Cai, Shuo Yang, Ben Brown, Fujun Ruan, Yizhu Gu, Howie Choset, Lu Li.
 
-### Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture
+### [Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture](https://ieeexplore.ieee.org/abstract/document/9636149)
 
-[IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021](https://ieeexplore.ieee.org/abstract/document/9636149)
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 
 Yu Chen, Yuxuan Wang, Bolin Lai, Zijie Chen, Xu Cao, Nanyang Ye, Zhongyuan Ren, Junbo Zhao, Xiao-Yun Zhou, Peng Qi.
