@@ -14,14 +14,29 @@ My current research focuses on (1) robotic motion planning and kinematics, and (
 Selected Research Projects
 ======
 
-## Motion Planning & IK (2024-present)
+### Propagative Distance Optimization for Motion Planning
 
-An efficient framework for inverse kinematics and motion planning in high-dimensional articulated robots with complex task constraints, leveraging propagative distance optimization to enhance accuracy and scalability
+(Under Review) IEEE International Conference on Robotics and Automation (ICRA), 2025
 
-https://github.com/user-attachments/assets/d344ef12-e5c3-4b42-9cbc-c0070f805802
+Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guanya Shi.
 
-## In-Pipe Robot (2022-2023)
+![franka_demo](https://github.com/user-attachments/assets/473f1085-c0da-4416-b01b-ca8d23f2d0ad)
 
-An in-pipe truss robot with redundant joints and linkages for pipe shape adaptation and actuation force distribution, providing significant advantages for complex pipeline navigation and heavy payload delivery.
 
-https://github.com/user-attachments/assets/38b54acb-ae8d-423e-9689-befebc9cfde2
+### Propagative Distance Optimization for Constrained Inverse Kinematics
+
+[The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2024](https://arxiv.org/abs/2406.11572)
+
+Yu Chen, Yilin Cai, Jinyun Xu, Zhongqiang Ren, Guanya Shi, Howie Choset.
+
+### Graph-Propagation-based Kinematic Algorithm for In-pipe Truss Robots
+
+[IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/abstract/document/10494897)
+
+Yu Chen, Jinyun Xu, Yilin Cai, Shuo Yang, Ben Brown, Fujun Ruan, Yizhu Gu, Howie Choset, Lu Li.
+
+### Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture
+
+[IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021](https://ieeexplore.ieee.org/abstract/document/9636149)
+
+Yu Chen, Yuxuan Wang, Bolin Lai, Zijie Chen, Xu Cao, Nanyang Ye, Zhongyuan Ren, Junbo Zhao, Xiao-Yun Zhou, Peng Qi.
