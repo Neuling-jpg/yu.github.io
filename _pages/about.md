@@ -28,6 +28,8 @@ The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR
 
 Yu Chen, Yilin Cai, Jinyun Xu, Zhongqiang Ren, Guanya Shi, Howie Choset.
 
+![humanoid_demo](https://github.com/user-attachments/assets/a2aa2c36-06d9-4ccc-88bb-e574c0eef659)
+
 ## [Graph-Propagation-based Kinematic Algorithm for In-pipe Truss Robots](https://ieeexplore.ieee.org/abstract/document/10494897)
 
 IEEE Robotics and Automation Letters
