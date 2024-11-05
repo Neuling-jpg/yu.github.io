@@ -36,6 +36,8 @@ IEEE Robotics and Automation Letters
 
 Yu Chen, Jinyun Xu, Yilin Cai, Shuo Yang, Ben Brown, Fujun Ruan, Yizhu Gu, Howie Choset, Lu Li.
 
+![crawling](https://github.com/user-attachments/assets/ba4dc368-7000-4306-8ea1-76d54030abb2)
+
 ## [Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture](https://ieeexplore.ieee.org/abstract/document/9636149)
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
