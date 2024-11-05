@@ -20,7 +20,7 @@ Selected Research Projects
 
 Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guanya Shi.
 
-![franka_demo](https://github.com/user-attachments/assets/473f1085-c0da-4416-b01b-ca8d23f2d0ad)
+![franka_demo](https://github.com/user-attachments/assets/8cd6e5dc-7f13-4c0b-bccf-d0980dc071f0)
 
 
 ### Propagative Distance Optimization for Constrained Inverse Kinematics
