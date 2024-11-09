@@ -12,9 +12,9 @@ I am a research assistant in the [Biorobotics Lab](https://biorobotics.org/) at 
 Selected Research Projects
 ======
 
-### Propagative Distance Optimization for Motion Planning  
-(Under Review) IEEE International Conference on Robotics and Automation (ICRA), 2025  
-Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guanya Shi.
+**Propagative Distance Optimization for Motion Planning**  
+Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guanya Shi.  
+_(Under Review) IEEE International Conference on Robotics and Automation (ICRA), 2025_  
 
 ![demos](https://github.com/user-attachments/assets/90412f4d-acb0-4fe4-85a1-4c957c3ce980)
 
