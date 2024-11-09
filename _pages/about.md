@@ -34,8 +34,8 @@ _IEEE Robotics and Automation Letters_
 ![crawling](https://github.com/user-attachments/assets/ba4dc368-7000-4306-8ea1-76d54030abb2)
 
 **Semi-Supervised Vein Segmentation of Ultrasound Images for Autonomous Venipuncture**  
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021  
 Yu Chen, Yuxuan Wang, Bolin Lai, Zijie Chen, Xu Cao, Nanyang Ye, Zhongyuan Ren, Junbo Zhao, Xiao-Yun Zhou, Peng Qi.  
+_IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021_  
 \[[Paper](https://ieeexplore.ieee.org/abstract/document/9636149)\]
 
 ![demo-1](https://github.com/user-attachments/assets/78d58873-00c9-4195-a767-02d1fc396604)
