@@ -14,7 +14,7 @@ Selected Research Projects
 
 **Propagative Distance Optimization for Motion Planning**  
 Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guanya Shi.  
-_(Under Review) IEEE International Conference on Robotics and Automation (ICRA), 2025_  
+_(Accepted) IEEE International Conference on Robotics and Automation (ICRA), 2025_  
 \[[Paper](https://drive.google.com/file/d/17KRTaoDTP2KOWd8UxQZlynEN1Uo3FjA7/view?usp=sharing)\]
 
 ![demos](https://github.com/user-attachments/assets/90412f4d-acb0-4fe4-85a1-4c957c3ce980)
