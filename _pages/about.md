@@ -12,9 +12,17 @@ I am a research assistant in the [Biorobotics Lab](https://biorobotics.org/) at 
 Selected Research Projects
 ======
 
+**NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**  
+_(* for equal contribution)_
+Botao He*, Amir Hossein Shahidzadeh*, Yu Chen*, Jiayi Wu, Tianrui Guan, Guofei Chen, Dinesh Manocha, Howie Choset, Glen Chou, Cornelia Fermuller, Yiannis Aloimonos.  
+_Under Review_  
+\[[Paper](https://drive.google.com/file/d/10rNEujDblF5BPPByyvwmkr1WBraHlolE/view?usp=sharing)\]
+
+![navmoe_demo_short](https://github.com/user-attachments/assets/9ad79620-88a3-4184-9d29-0ef5fdcb9f6b)
+
 **Propagative Distance Optimization for Motion Planning**  
 Yu Chen, Jinyun Xu, Yilin Cai, Ting-Wei Wong, Zhongqiang Ren, Howie Choset, Guanya Shi.  
-_(Accepted) IEEE International Conference on Robotics and Automation (ICRA), 2025_  
+_IEEE International Conference on Robotics and Automation (ICRA), 2025_  
 \[[Paper](https://drive.google.com/file/d/17KRTaoDTP2KOWd8UxQZlynEN1Uo3FjA7/view?usp=sharing)\]
 
 ![demos](https://github.com/user-attachments/assets/90412f4d-acb0-4fe4-85a1-4c957c3ce980)
