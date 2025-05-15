@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Master of Science in Robotics (MSR) degree from the same lab, advised by [Prof. Howie Choset](https://www.cs.cmu.edu/~choset/) and in collaboration with my thesis comittee member [Prof. Guanya Shi](https://www.gshi.me/). Before joining CMU, I received my B.Eng. degree in Vehicle Enigineering from [Tongji University](https://www.tongji.edu.cn/) (China). My current research focuses on (1) learning and applied optimization for robotic motion control and (2) robotic system design.
+I received my Master of Science in Robotics (MSR) degree from biorobotics lab, advised by [Prof. Howie Choset](https://www.cs.cmu.edu/~choset/) and in collaboration with my thesis comittee member [Prof. Guanya Shi](https://www.gshi.me/). Before joining CMU, I received my B.Eng. degree in Vehicle Enigineering from [Tongji University](https://www.tongji.edu.cn/) (China). My current research focuses on (1) learning and applied optimization for robotic motion control and (2) robotic system design.
 
 Selected Research Projects
 ======
