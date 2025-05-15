@@ -13,8 +13,8 @@ Selected Research Projects
 ======
 
 **NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**  
-_(* for equal contribution)_
-Botao He*, Amir Hossein Shahidzadeh*, Yu Chen*, Jiayi Wu, Tianrui Guan, Guofei Chen, Dinesh Manocha, Howie Choset, Glen Chou, Cornelia Fermuller, Yiannis Aloimonos.  
+_(\* for equal contribution)_
+Botao He\*, Amir Hossein Shahidzadeh\*, Yu Chen\*, Jiayi Wu, Tianrui Guan, Guofei Chen, Dinesh Manocha, Howie Choset, Glen Chou, Cornelia Fermuller, Yiannis Aloimonos.  
 _Under Review_  
 \[[Paper](https://drive.google.com/file/d/10rNEujDblF5BPPByyvwmkr1WBraHlolE/view?usp=sharing)\]
 
