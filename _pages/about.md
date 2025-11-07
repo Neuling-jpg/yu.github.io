@@ -17,7 +17,7 @@ Yu Chen, Botao He, Yuemin Mao, Arthur Jakobsson, Jeffrey Ke, Yiannis Aloimonos, 
 _Preprint_  
 \[[Website](https://neuling-jpg.github.io/game4grasp.github.io/)\] \[[Paper](https://neuling-jpg.github.io/game4grasp.github.io/)\]
 
-https://github.com/user-attachments/assets/8a1261a6-edec-4f06-9f3e-9f64da9634b2
+![media](https://github.com/user-attachments/assets/780290b7-0d2f-4a5e-9c8c-270f8dfd5b68)
 
 **NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**  
 _(\* for equal contribution)_
