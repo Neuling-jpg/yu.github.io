@@ -12,6 +12,13 @@ I received my Master of Science in Robotics (MSR) degree from CMU biorobotics la
 Selected Research Projects
 ======
 
+**Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis**  
+Yu Chen, Botao He, Yuemin Mao, Arthur Jakobsson, Jeffrey Ke, Yiannis Aloimonos, Guanya Shi, Howie Choset, Jiayuan Mao and Jeffrey Ichnowski.  
+_Preprint_  
+\[[Website](https://neuling-jpg.github.io/game4grasp.github.io/)\] \[[Paper](https://neuling-jpg.github.io/game4grasp.github.io/)\]
+
+https://github.com/user-attachments/assets/8a1261a6-edec-4f06-9f3e-9f64da9634b2
+
 **NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**  
 _(\* for equal contribution)_
 Botao He\*, Amir Hossein Shahidzadeh\*, Yu Chen\*, Jiayi Wu, Tianrui Guan, Guofei Chen, Dinesh Manocha, Howie Choset, Glen Chou, Cornelia Fermuller, Yiannis Aloimonos.  
