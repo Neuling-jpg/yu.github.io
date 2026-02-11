@@ -14,7 +14,7 @@ Selected Research Projects
 
 **Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis**  
 Yu Chen, Botao He, Yuemin Mao, Arthur Jakobsson, Jeffrey Ke, Yiannis Aloimonos, Guanya Shi, Howie Choset, Jiayuan Mao and Jeffrey Ichnowski.  
-_<span style="color: #BA55D3;">Accepted to ICRA 2026</span>_  
+_<font color=#BA55D3>Accepted to ICRA 2026</font>_  
 \[[Website](https://neuling-jpg.github.io/game4grasp.github.io/)\] \[[Paper](https://neuling-jpg.github.io/game4grasp.github.io/)\]
 
 ![game4grasp](https://github.com/user-attachments/assets/818dc681-9801-43ff-9169-3730e327dce7)
