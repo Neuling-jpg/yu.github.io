@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my Master of Science in Robotics (MSR) degree from CMU biorobotics lab, advised by [Prof. Howie Choset](https://www.cs.cmu.edu/~choset/) and in collaboration with my thesis comittee member [Prof. Guanya Shi](https://www.gshi.me/). Before joining CMU, I received my B.Eng. degree in Vehicle Enigineering from [Tongji University](https://www.tongji.edu.cn/) (China). My current research focuses on (1) learning and applied optimization for manipulation and (2) robot motion control.
+I am an incoming Ph.D. student at the University of Maryland, advised by Prof. [Ruoshi Liu](https://ruoshiliu.github.io/).
+
+Previously, I received my M.S. in Robotics from Carnegie Mellon University, where I worked in the Biorobotics Lab under the supervision of Prof. [Howie Choset](https://www.cs.cmu.edu/~choset/). Before that, I earned my B.Eng. in Vehicle Engineering from [Tongji University](https://www.tongji.edu.cn/), China.
+
+My research focuses on robotic manipulation, particularly task and motion planning.
 
 Selected Research Projects
 ======
