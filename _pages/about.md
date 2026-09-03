@@ -18,7 +18,7 @@ Selected Research Projects
 
 **Adversarial Game-Theoretic Algorithm for Dexterous Grasp Synthesis**  
 Yu Chen, Botao He, Yuemin Mao, Arthur Jakobsson, Jeffrey Ke, Yiannis Aloimonos, Guanya Shi, Howie Choset, Jiayuan Mao and Jeffrey Ichnowski.  
-_IEEE International Conference on Robotics and Automation (ICRA), 2026_
+_IEEE International Conference on Robotics and Automation (ICRA), 2026_  
 \[[Website](https://neuling-jpg.github.io/game4grasp.github.io/)\] \[[Paper](https://neuling-jpg.github.io/game4grasp.github.io/)\]
 
 ![game4grasp](https://github.com/user-attachments/assets/818dc681-9801-43ff-9169-3730e327dce7)
@@ -26,7 +26,7 @@ _IEEE International Conference on Robotics and Automation (ICRA), 2026_
 **NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**  
 _(\* for equal contribution)_
 Botao He\*, Amir Hossein Shahidzadeh\*, Yu Chen\*, Jiayi Wu, Tianrui Guan, Guofei Chen, Dinesh Manocha, Howie Choset, Glen Chou, Cornelia Fermuller, Yiannis Aloimonos.  
-_IEEE International Conference on Robotics and Automation (ICRA), 2026_
+_IEEE International Conference on Robotics and Automation (ICRA), 2026_  
 \[[Paper](https://drive.google.com/file/d/10rNEujDblF5BPPByyvwmkr1WBraHlolE/view?usp=sharing)\]
 
 ![navmoe_demo_short](https://github.com/user-attachments/assets/9ad79620-88a3-4184-9d29-0ef5fdcb9f6b)
